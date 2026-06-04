@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Filmoteca</string>
+
+    <!-- Film Data -->
+    <string name="data_title">Movie Information</string>
+    <string name="director">Director:</string>
+    <string name="year">Year:</string>
+
+    <string name="no_title">No Title</string>
+</resources>
