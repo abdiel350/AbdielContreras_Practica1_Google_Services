@@ -52,9 +52,10 @@ Gestión de Permisos
 
 Se configuró el entorno de compilación para asegurar la compatibilidad entre Firebase y Kotlin, utilizando las versiones:
 
-    Gradle Plugin: 8.1.4
-
+    Gradle Plugin: 8.10.2
+    JDK VERSION 17.0.12
     Kotlin: 1.9.0
+
 
     Google Services: 4.4.1 (necesario para procesar el archivo google-services.json).
 
